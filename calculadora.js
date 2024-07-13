@@ -1,5 +1,22 @@
 class Calculadora {
-  //Seu código aqui
-} 
+  static soma(a, b) {
+    return a + b;
+  }
 
-module.exports = Calculadora
+  static subtrai(a, b) {
+    return a - b;
+  }
+
+  static multiplica(a, b) {
+    return a * b;
+  }
+
+  static divide(a, b) {
+    if (b === 0) {
+      throw new Error('Não é possível dividir por zero');
+    }
+    return a / b;
+  }
+}
+
+module.exports = Calculadora;
