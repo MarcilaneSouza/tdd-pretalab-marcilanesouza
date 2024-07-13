@@ -78,3 +78,7 @@ _Vai ser incrível compartilhar essa jornada com você! Qualquer dúvida ou suge
 
 <br>
 Feito com 💜 por Simara Conceição | Quero Ser Dev
+
+
+OBS. tive alguns problemas com a internet e o pc na hora do teste. 
+mesmo assim obrigada. Gratidão! <3
